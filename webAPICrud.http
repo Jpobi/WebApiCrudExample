@@ -1,0 +1,6 @@
+@webAPICrud_HostAddress = http://localhost:5150
+
+GET {{webAPICrud_HostAddress}}/Clientes/
+Accept: application/json
+
+###
