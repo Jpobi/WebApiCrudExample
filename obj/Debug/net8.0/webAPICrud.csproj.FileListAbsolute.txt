@@ -128,3 +128,5 @@ C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\obj\Debug\net8.
 C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\bin\Debug\net8.0\webAPICrud.pdb
 C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\bin\Debug\net8.0\webAPICrud.xml
 C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\obj\Debug\net8.0\ref\webAPICrud.dll
+C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jpobi\Desktop\JuanPe\SideProjects\WebApiCrud\webAPICrud\bin\Debug\net8.0\Newtonsoft.Json.dll
